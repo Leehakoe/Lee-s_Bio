@@ -3,7 +3,18 @@ h1{
 }
 footer{
 	text-align: center;
+	position: relative;
+	bottom: -800px;
 }
 #Intrests{
-	    list-style-type: none;
+	list-style-type: none;
+	position: relative;
+	margin-left: 1310px;
+	bottom: -50px;
+}
+h2{
+	font: 100px;
+	position: relative;
+	margin-left: 1310px;
+	bottom: -60px;
 }
