@@ -31,3 +31,23 @@ body{
 	margin-left: 1110px;
 	bottom: 15px;
 }
+#Skills{
+	font-size: 20px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	position: relative;
+	margin-left: 1120px;
+	bottom: ;
+}
+.Learn{
+	list-style: square;
+	position: relative;
+	margin-left: -1px;
+	bottom: 361px;
+}
+#EDU{
+	font-size: 20px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	position: relative;
+	margin-left: 15px;
+	bottom: 350px;
+}
