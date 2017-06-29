@@ -50,6 +50,7 @@ button {
 **/
 .horizontal-flip-hover {
   text-indent: -100em;
+  font-size: 300%;
 }
 
 .horizontal-flip-hover:before,
