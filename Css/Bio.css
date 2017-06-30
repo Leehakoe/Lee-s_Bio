@@ -68,4 +68,10 @@ body{
 	position: relative;
 	margin-left: -1px;
 	bottom: 361px;
-	}
+}
+.Lingo{
+	list-style: none;
+	position: relative;
+	margin-left: 1110px;
+	bottom: 400px;
+}
