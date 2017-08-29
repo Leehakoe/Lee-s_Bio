@@ -1,6 +1,11 @@
 body{
 	background-color: ;
 }
+#about_me{
+	position: relative;
+	margin-left: 35px;
+	bottom: 356px;
+}
 #name{
 	text-align: center;
 	font-family: "Arial Black", Gadget, sans-serif;
