@@ -3,8 +3,15 @@ body{
 }
 #about_me{
 	position: relative;
-	margin-left: 35px;
+	margin-left: 33px;
 	bottom: 356px;
+}
+p{
+	width: 300px;
+  text-justify: inter-word;
+	position: relative;
+	margin-left: 10px;
+	bottom: 367px;
 }
 #name{
 	text-align: center;
