@@ -1,6 +1,7 @@
 body{
 	background: url("https://s-media-cache-ak0.pinimg.com/originals/34/c5/41/34c541f822b071f8a28162032bfbf64d.jpg");
 	background-size: cover;
+	width: 100%;
 }
 h2{
 	text-align: center;
