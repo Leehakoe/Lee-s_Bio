@@ -1,3 +1,3 @@
 $(document).ready(function(){
-        $(".list").fadeOut("fast");
+        $("#name").fadeOut("slow");
 });
