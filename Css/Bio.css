@@ -1,6 +1,10 @@
 body{
 	background: url("https://static1.squarespace.com/static/56e72fc07c65e47c25d0cf78/t/5952e019099c01936393458e/1498603553533/daniel-leone-185834.jpg?format=2500w");
+<<<<<<< HEAD
     background-size: cover;
+=======
+    	background-size: cover;
+>>>>>>> fd084345a09ab83e3ee38cd3db316fc6b180e39d
 	width: 100%;
 }
 #about_me{
