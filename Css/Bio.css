@@ -1,28 +1,33 @@
 body{
-	background-color: ;
+	background: url("Images/daniel-leone-185834.jpg");
+    background-size: cover;
 	width: 100%;
 }
 #about_me{
 	position: relative;
 	margin-left: 33px;
 	bottom: 356px;
+	color: white;
 }
 p{
 	width: 300px;
-  text-justify: inter-word;
+  	text-justify: inter-word;
 	position: relative;
 	margin-left: 10px;
 	bottom: 367px;
+	color: white;
 }
 #name{
 	text-align: center;
 	font-family: "Arial Black", Gadget, sans-serif;
+	color: white;
 }
 .list{
 	list-style: none;
 	position: relative;
 	margin-left: 1110px;
 	bottom: 15px;
+	color: white;
 }
 #Interests{
 	font-size: 20px;
@@ -30,6 +35,7 @@ p{
 	position: relative;
 	margin-left: 1120px;
 	bottom: ;
+	color: white;
 }
 #Skills{
 	font-size: 20px;
@@ -37,12 +43,14 @@ p{
 	position: relative;
 	margin-left: 1120px;
 	bottom: 20px;
+	color: white;
 }
 .Tech{
 	list-style: none;
 	position: relative;
 	margin-left: 1110px;
 	bottom: 30px;
+	color: white;
 }
 
 .Learn{
@@ -50,6 +58,7 @@ p{
 	position: relative;
 	margin-left: -1px;
 	bottom: 361px;
+	color: white;
 }
 #EDU{
 	font-size: 20px;
@@ -57,24 +66,28 @@ p{
 	position: relative;
 	margin-left: 15px;
 	bottom: 350px;
+	color: white;
 }
 .JSS{
 	list-style: square;
 	position: relative;
 	margin-left: -1px;
 	bottom: 361px;
+	color: white;
 	}
 .MMP{
 	list-style: square;
 	position: relative;
 	margin-left: -1px;
 	bottom: 361px;
+	color: white;
 }
 .SDA{
 	list-style: square;
 	position: relative;
 	margin-left: -1px;
 	bottom: 361px;
+	color: white;
 }
 .foot{
 	text-align: center;
@@ -85,11 +98,13 @@ p{
 	position: relative;
 	margin-left: 1120px;
 	bottom: 590px;
+	color: white;
 }
 .lang{
 	list-style: none;
 	position: relative;
 	margin-left: 1110px;
 	bottom: 600px;
+	color: white;
 }
 @media only screen and (max-width:632px)
