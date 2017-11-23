@@ -1,10 +1,6 @@
 body{
-	background: url("https://static1.squarespace.com/static/56e72fc07c65e47c25d0cf78/t/5952e019099c01936393458e/1498603553533/daniel-leone-185834.jpg?format=2500w");
-<<<<<<< HEAD
+	background: url("file:///C:/Users/Packard%20Bell/Documents/Projects/Lee-s_Bio/Images/daniel-leone-185834.jpg");
     background-size: cover;
-=======
-    	background-size: cover;
->>>>>>> fd084345a09ab83e3ee38cd3db316fc6b180e39d
 	width: 100%;
 }
 #about_me{
@@ -109,6 +105,21 @@ p{
 	position: relative;
 	margin-left: 1110px;
 	bottom: 600px;
+	color: white;
+}
+#Certified{
+	font-size: 20px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	position: relative;
+	margin-left: 1120px;
+	bottom: 616px;
+	color: white;
+}
+.images{
+	list-style: none;
+	position: relative;
+	margin-left: 1080px;
+	bottom: 614px;
 	color: white;
 }
 @media only screen and (max-width:632px)

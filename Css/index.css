@@ -1,5 +1,5 @@
 body{
-	background: url("https://s-media-cache-ak0.pinimg.com/originals/34/c5/41/34c541f822b071f8a28162032bfbf64d.jpg");
+	background: url("file:///C:/Users/Packard%20Bell/Documents/Projects/Lee-s_Bio/Images/Mountain_Stars.jpg");
 	background-size: cover;
 	width: 100%;
 }
@@ -7,14 +7,14 @@ h2{
 	text-align: center;
 }
 #logo{
-	margin-left: 491px;
+	margin-left: 499px;
 	position: fixed;
-    bottom: 389px;
+  bottom: 389px;
 	color: white;
 }
 #brief{
 	color: white;
-	margin-left: 498px;
+	margin-left: 499px;
 	position: fixed;
   bottom: 379px;
 }
