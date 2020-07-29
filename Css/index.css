@@ -1,5 +1,5 @@
 body{
-	background: url("file:///C:/Users/Packard%20Bell/Documents/Projects/Lee-s_Bio/Images/Mountain_Stars.jpg");
+	background: url(../Images/Mountain_Stars.jpg);
 	background-size: cover;
 	width: 100%;
 }

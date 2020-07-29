@@ -1,5 +1,5 @@
 body{
-	background: url("file:///C:/Users/Packard%20Bell/Documents/Projects/Lee-s_Bio/Images/daniel-leone-185834.jpg");
+	background: url(../Images/daniel-leone-185834.jpg);
     background-size: cover;
 	width: 100%;
 }
