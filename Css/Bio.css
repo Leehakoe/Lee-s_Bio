@@ -1,125 +1,144 @@
-body{
-	background: url(../Images/daniel-leone-185834.jpg);
+body {
+    background: url(../Images/daniel-leone-185834.jpg);
     background-size: cover;
-	width: 100%;
-}
-#about_me{
-	position: relative;
-	margin-left: 33px;
-	bottom: 356px;
-	color: white;
-}
-p{
-	width: 300px;
-  	text-justify: inter-word;
-	position: relative;
-	margin-left: 10px;
-	bottom: 367px;
-	color: white;
-}
-#name{
-	text-align: center;
-	font-family: "Arial Black", Gadget, sans-serif;
-	color: white;
-}
-.list{
-	list-style: none;
-	position: relative;
-	margin-left: 1110px;
-	bottom: 15px;
-	color: white;
-}
-#Interests{
-	font-size: 20px;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	position: relative;
-	margin-left: 1120px;
-	bottom: ;
-	color: white;
-}
-#Skills{
-	font-size: 20px;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	position: relative;
-	margin-left: 1120px;
-	bottom: 20px;
-	color: white;
-}
-.Tech{
-	list-style: none;
-	position: relative;
-	margin-left: 1110px;
-	bottom: 30px;
-	color: white;
+    width: 100%;
 }
 
-.Learn{
-	list-style: square;
-	position: relative;
-	margin-left: -1px;
-	bottom: 361px;
-	color: white;
+#about_me {
+    position: relative;
+    margin-left: 33px;
+    bottom: 356px;
+    color: white;
 }
-#EDU{
-	font-size: 20px;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	position: relative;
-	margin-left: 15px;
-	bottom: 350px;
-	color: white;
+
+p {
+    width: 300px;
+    text-justify: inter-word;
+    position: relative;
+    margin-left: 10px;
+    bottom: 367px;
+    color: white;
 }
-.JSS{
-	list-style: square;
-	position: relative;
-	margin-left: -1px;
-	bottom: 361px;
-	color: white;
-	}
-.MMP{
-	list-style: square;
-	position: relative;
-	margin-left: -1px;
-	bottom: 361px;
-	color: white;
+
+#name {
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: white;
 }
-.SDA{
-	list-style: square;
-	position: relative;
-	margin-left: -1px;
-	bottom: 361px;
-	color: white;
+
+.list {
+    list-style: none;
+    position: relative;
+    margin-left: 1110px;
+    bottom: 15px;
+    color: white;
 }
-.foot{
-	text-align: center;
+
+#Interests {
+    font-size: 20px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    position: relative;
+    margin-left: 1120px;
+    bottom: ;
+    color: white;
 }
-#Lingo{
-	font-size: 20px;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	position: relative;
-	margin-left: 1120px;
-	bottom: 590px;
-	color: white;
+
+#Skills {
+    font-size: 20px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    position: relative;
+    margin-left: 1120px;
+    bottom: 20px;
+    color: white;
 }
-.lang{
-	list-style: none;
-	position: relative;
-	margin-left: 1110px;
-	bottom: 600px;
-	color: white;
+
+.Tech {
+    list-style: none;
+    position: relative;
+    margin-left: 1110px;
+    bottom: 30px;
+    color: white;
 }
-#Certified{
-	font-size: 20px;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	position: relative;
-	margin-left: 1120px;
-	bottom: 616px;
-	color: white;
+
+.Learn {
+    list-style: square;
+    position: relative;
+    margin-left: -1px;
+    bottom: 361px;
+    color: white;
 }
-.images{
-	list-style: none;
-	position: relative;
-	margin-left: 1080px;
-	bottom: 614px;
-	color: white;
+
+#EDU {
+    font-size: 20px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    position: relative;
+    margin-left: 15px;
+    bottom: 350px;
+    color: white;
 }
-@media only screen and (max-width:632px)
+
+.JSS {
+    list-style: square;
+    position: relative;
+    margin-left: -1px;
+    bottom: 361px;
+    color: white;
+}
+
+.MMP {
+    list-style: square;
+    position: relative;
+    margin-left: -1px;
+    bottom: 361px;
+    color: white;
+}
+
+.SDA {
+    list-style: square;
+    position: relative;
+    margin-left: -1px;
+    bottom: 361px;
+    color: white;
+}
+
+.foot {
+    text-align: center;
+}
+
+#Lingo {
+    font-size: 20px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    position: relative;
+    margin-left: 1120px;
+    bottom: 590px;
+    color: white;
+}
+
+.lang {
+    list-style: none;
+    position: relative;
+    margin-left: 1110px;
+    bottom: 600px;
+    color: white;
+}
+
+#Certified {
+    font-size: 20px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    position: relative;
+    margin-left: 1120px;
+    bottom: 616px;
+    color: white;
+}
+
+.images {
+    list-style: none;
+    position: relative;
+    margin-left: 1080px;
+    bottom: 614px;
+    color: white;
+}
+
+@media only screen and (max-width: 632px) {
+    /* Add responsive CSS here if needed */
+}
